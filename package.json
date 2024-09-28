@@ -1,0 +1,12 @@
+{
+  "name": "latihan-npm-library",
+  "version": "1.0.0",
+  "description": "Latihan Npm Library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nullhakim",
+  "license": "ISC"
+}
